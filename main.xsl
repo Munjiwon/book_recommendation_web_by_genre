@@ -165,19 +165,19 @@ function mouseout() {
               <td rowspan="8" align="center" width="38%">
                 <image width="150" src="mainlogo.PNG"></image>
               </td>
-              <td style="padding:5px; color:#FFE7D0;">(주)엘엠케이라이브러리</td>
+              <td style="padding:5px; color:#FFE7D0;">(주)제이라이브러리</td>
             </tr>
             <tr>
-              <td style="padding:5px; color:#FFE7D0;">대표 : 김이주, 문지원, 이서영</td>
+              <td style="padding:5px; color:#FFE7D0;">대표 : 문지원</td>
             </tr>
             <tr>
-              <td style="padding:5px; color:#FFE7D0;">고객정보보호 책임자 : 김이주, 문지원, 이서영</td>
+              <td style="padding:5px; color:#FFE7D0;">고객정보보호 책임자 : 문지원</td>
             </tr>
             <tr>
               <td style="padding:5px; color:#FFE7D0;">FAS : 01-2345-6789</td>
             </tr>
             <tr>
-              <td style="padding:5px; color:#FFE7D0;">E-mail : privacy@on.co.kr</td>
+              <td style="padding:5px; color:#FFE7D0;">E-mail : privacy@jw.co.kr</td>
             </tr>
             <tr>
               <td style="padding:5px; color:#FFE7D0;">사업자등록번호 : 123-45-67890</td>
@@ -186,10 +186,10 @@ function mouseout() {
               <td style="padding:5px; color:#FFE7D0;">통신판매업신고 : 제 1234-56789호</td>
             </tr>
             <tr>
-              <td style="padding:5px; color:#FFE7D0;">호스팅 서비스사업자 : 엘엠케이라이브러리(주)</td>
+              <td style="padding:5px; color:#FFE7D0;">호스팅 서비스사업자 : 제이라이브러리(주)</td>
             </tr>
             <tr>
-              <td colspan="2" align="center" style="font-size:11pt; letter-spacing:3.5px; color:#FFE7D0;">Copyright ⓒ LMKlibrary Corp. All Rights Reserved.</td>
+              <td colspan="2" align="center" style="font-size:11pt; letter-spacing:3.5px; color:#FFE7D0;">Copyright ⓒ Jlibrary Corp. All Rights Reserved.</td>
             </tr>
           </table>
         </footer>
